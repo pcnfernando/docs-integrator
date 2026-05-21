@@ -11,7 +11,7 @@ import TabItem from '@theme/TabItem';
 
 Logs are the everyday tool for tracing what an integration did and diagnosing what went wrong. Reach for them when you want a persistent record across runs, when the issue only reproduces in a long-running deployment, or when [editor debugging](../debugging/editor.md) is too heavyweight for the question you have.
 
-WSO2 Integrator supports the four standard severities: **Info**, **Warn**, **Error**, and **Debug**. For the field-by-field reference of the Log nodes, see [Logging in the flow diagram editor](../understand-ide/editors/flow-diagram-editor/logging.md). For runtime configuration (log level, output format, file rotation, aggregation), see [Logging & structured logs](/docs/deploy-operate/observe/logging-overview).
+WSO2 Integrator supports the four standard severities: **Info**, **Warn**, **Error**, and **Debug**. For the field-by-field reference of the Log nodes, see [Logging in the flow diagram editor](../understand-ide/editors/flow-diagram-editor/logging.md). For runtime configuration (log level, output format, file rotation, aggregation), see Logging & structured logs.
 
 ## Add a log statement
 
@@ -142,7 +142,7 @@ level = "DEBUG"
 </TabItem>
 </Tabs>
 
-For module-specific levels, file rotation, and the JSON output format, see [Logging & structured logs](/docs/deploy-operate/observe/logging-overview).
+For module-specific levels, file rotation, and the JSON output format, see Logging & structured logs.
 
 ## Reuse context across calls with child loggers
 
@@ -221,7 +221,7 @@ Ballerina libraries emit their own logs at the module level. The most common one
 accessLogConfig.console = true
 ```
 
-Other modules (such as `ballerina/sql` or `ballerina/grpc`) emit logs under their own module names. To raise or lower their verbosity independently of your integration code, configure module-specific levels as described in [Logging & structured logs](/docs/deploy-operate/observe/logging-overview).
+Other modules (such as `ballerina/sql` or `ballerina/grpc`) emit logs under their own module names. To raise or lower their verbosity independently of your integration code, configure module-specific levels as described in Logging & structured logs.
 
 ## What's next
 

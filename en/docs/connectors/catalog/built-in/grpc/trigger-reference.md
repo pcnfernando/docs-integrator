@@ -69,7 +69,7 @@ listener grpc:Listener grpcListener = new (9090,
 ```
 
 :::tip Generating certificates
-For instructions on generating certificates using `keytool`, see [Keystores and Truststores](../../../../deploy-operate/secure/keystore-truststore.md).
+For instructions on generating certificates using `keytool`, see Keystores and Truststores.
 :::
 
 **Listener with mutual TLS:**
