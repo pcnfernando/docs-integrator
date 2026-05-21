@@ -10,7 +10,7 @@ This page explains how to run a WSO2 Integrator project using the Ballerina CLI.
 
 :::info Prerequisites
 - [Ballerina installed](https://ballerina.io/downloads/) on any machine where you want to run the project
-- A WSO2 Integrator project based on Ballerina
+- A WSO2 Integrator project
 :::
 
 ## Run locally

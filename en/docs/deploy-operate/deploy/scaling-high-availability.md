@@ -2,6 +2,7 @@
 sidebar_position: 6
 title: Scaling & High Availability
 description: Scale integrations horizontally and ensure high availability.
+draft: true
 ---
 
 # Scaling & High Availability

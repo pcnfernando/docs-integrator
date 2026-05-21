@@ -2,6 +2,7 @@
 sidebar_position: 4
 title: Deploy to AWS / Azure / GCP
 description: Deploy integrations to major cloud providers.
+draft: true
 ---
 
 # Deploy to AWS / Azure / GCP

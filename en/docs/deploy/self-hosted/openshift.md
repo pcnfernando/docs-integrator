@@ -2,6 +2,7 @@
 title: Red Hat OpenShift
 description: Deploy a WSO2 Integrator project to Red Hat OpenShift using the Ballerina Code to Cloud feature.
 keywords: [wso2 integrator, openshift, red hat, containerized deployment, code to cloud, bal build, cloud.toml, oc]
+draft: true
 ---
 
 # Red Hat OpenShift
@@ -11,7 +12,7 @@ WSO2 Integrator uses the Ballerina Code to Cloud feature to generate OpenShift m
 :::info Prerequisites
 - [Docker](https://www.docker.com/) installed and running on your build machine
 - [OpenShift CLI (`oc`)](https://docs.openshift.com/container-platform/latest/cli_reference/openshift_cli/getting-started-cli.html) installed and logged in to your cluster
-- A WSO2 Integrator project based on Ballerina
+- A WSO2 Integrator project
 :::
 
 :::note

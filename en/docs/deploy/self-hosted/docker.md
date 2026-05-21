@@ -10,7 +10,7 @@ WSO2 Integrator uses the Ballerina Code to Cloud feature to generate a Docker im
 
 :::info Prerequisites
 - [Docker](https://www.docker.com/) installed and running on your build machine
-- A WSO2 Integrator project based on Ballerina
+- A WSO2 Integrator project
 :::
 
 :::note

@@ -2,6 +2,7 @@
 sidebar_position: 5
 title: Environments
 description: Manage Dev, Test, and Prod environments with configuration promotion.
+draft: true
 ---
 
 # Environments (Dev, Test, Prod)

@@ -2,6 +2,7 @@
 sidebar_position: 9
 title: GraalVM Native Images
 description: Compile Ballerina integrations to GraalVM native binaries for instant startup and reduced memory.
+draft: true
 ---
 
 # GraalVM Native Images

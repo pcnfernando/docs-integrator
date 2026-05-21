@@ -2,6 +2,7 @@
 sidebar_position: 8
 title: Serverless Deployment
 description: Deploy integrations as serverless functions on AWS Lambda and Azure Functions.
+draft: true
 ---
 
 # Serverless Deployment

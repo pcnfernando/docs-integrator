@@ -11,7 +11,7 @@ WSO2 Integrator uses the Ballerina Code to Cloud feature to generate Kubernetes 
 :::info Prerequisites
 - [Docker](https://www.docker.com/) installed and running on your build machine
 - [kubectl](https://kubernetes.io/docs/tasks/tools/) installed and configured against a Kubernetes cluster
-- A WSO2 Integrator project based on Ballerina
+- A WSO2 Integrator project
 :::
 
 :::note
