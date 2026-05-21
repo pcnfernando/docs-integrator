@@ -130,4 +130,4 @@ curl http://localhost:9090/helloWorld/sayHello
 ## What's next
 
 - [Kubernetes](./kubernetes.md) — Generate Kubernetes manifests and deploy to a cluster using Code to Cloud
-- [Red Hat OpenShift](./openshift.md) — Generate OpenShift manifests and deploy using the `oc` CLI
+- Red Hat OpenShift — Generate OpenShift manifests and deploy using the `oc` CLI
