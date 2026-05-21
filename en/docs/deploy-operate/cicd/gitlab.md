@@ -1,6 +1,7 @@
 ---
 title: GitLab CI/CD
 description: CI/CD pipeline with GitLab for WSO2 Integrator.
+draft: true
 ---
 
 # GitLab CI/CD

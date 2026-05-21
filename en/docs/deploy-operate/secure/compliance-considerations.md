@@ -3,6 +3,7 @@ sidebar_position: 8
 title: Compliance Considerations
 description: Audit logging, data residency, and compliance configurations for WSO2 Integrator services.
 keywords: [wso2 integrator, compliance, gdpr, hipaa, soc 2, audit logging, data residency, pii]
+draft: true
 ---
 
 # Compliance Considerations

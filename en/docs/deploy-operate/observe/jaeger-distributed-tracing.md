@@ -2,6 +2,7 @@
 sidebar_position: 1
 title: Jaeger
 description: Set up Jaeger for distributed tracing of WSO2 Integrator services.
+draft: true
 ---
 
 # Jaeger

@@ -3,6 +3,7 @@ sidebar_position: 2
 title: Performance Benchmarks
 description: Benchmark results for the WSO2 Integrator HTTP passthrough scenario, including throughput limits, response latency, and resource optimization recommendations.
 keywords: [wso2 integrator, performance, benchmarks, throughput, latency, capacity planning, http passthrough]
+draft: true
 ---
 
 # Performance Benchmarks

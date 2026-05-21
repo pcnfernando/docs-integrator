@@ -1,6 +1,7 @@
 ---
 title: GitHub Actions
 description: CI/CD pipeline with GitHub Actions for WSO2 Integrator.
+draft: true
 ---
 
 # GitHub Actions

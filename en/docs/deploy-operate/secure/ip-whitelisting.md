@@ -3,6 +3,7 @@ sidebar_position: 7
 title: IP Whitelisting
 description: Configure IP-based access control to restrict service access to trusted addresses in WSO2 Integrator.
 keywords: [wso2 integrator, ip whitelisting, ip filtering, cidr, network policy, access control]
+draft: true
 ---
 
 # IP Whitelisting

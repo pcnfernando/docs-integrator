@@ -3,6 +3,7 @@ sidebar_position: 5
 title: API Security and Rate Limiting
 description: Rate limiting, input validation, and request hardening for production APIs in WSO2 Integrator.
 keywords: [wso2 integrator, api security, rate limiting, cors, input validation, security headers]
+draft: true
 ---
 
 # API Security and Rate Limiting

@@ -3,6 +3,7 @@ sidebar_position: 3
 title: Authentication
 description: Configure OAuth 2.0, JWT, and mTLS authentication for production services in WSO2 Integrator.
 keywords: [wso2 integrator, authentication, oauth 2.0, jwt, mtls, security]
+draft: true
 ---
 
 # Authentication

@@ -1,6 +1,7 @@
 ---
 title: Jenkins
 description: CI/CD pipeline with Jenkins for WSO2 Integrator.
+draft: true
 ---
 
 # Jenkins

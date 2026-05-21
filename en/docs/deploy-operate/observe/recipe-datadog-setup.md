@@ -2,6 +2,7 @@
 sidebar_position: 2
 title: Datadog
 description: Observe metrics and distributed traces from WSO2 Integrator using Datadog.
+draft: true
 ---
 
 # Datadog

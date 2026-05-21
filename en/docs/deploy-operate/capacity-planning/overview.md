@@ -3,6 +3,7 @@ sidebar_position: 1
 title: Overview and Sizing Guidelines
 description: Estimate CPU, memory, replica counts, and connection requirements for WSO2 Integrator deployments based on measured performance data.
 keywords: [wso2 integrator, capacity planning, sizing, resource estimation, throughput, scaling]
+draft: true
 ---
 
 # Overview and Sizing Guidelines

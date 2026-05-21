@@ -2,6 +2,7 @@
 sidebar_position: 2
 title: Logging
 description: Configure logging, log levels, and log aggregation for WSO2 Integrator.
+draft: true
 ---
 
 # Logging

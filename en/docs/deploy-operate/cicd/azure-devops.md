@@ -1,6 +1,7 @@
 ---
 title: Azure DevOps
 description: CI/CD pipeline with Azure DevOps for WSO2 Integrator.
+draft: true
 ---
 
 # Azure DevOps

@@ -2,6 +2,7 @@
 sidebar_position: 2
 title: Zipkin
 description: Set up Zipkin for distributed tracing of WSO2 Integrator services.
+draft: true
 ---
 
 # Zipkin

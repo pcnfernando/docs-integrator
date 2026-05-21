@@ -3,6 +3,7 @@ sidebar_position: 6
 title: Secrets and Encryption
 description: Manage secrets and configure encryption at rest and in transit for WSO2 Integrator services.
 keywords: [wso2 integrator, secrets, encryption, config.toml, vault, kubernetes secrets, tls]
+draft: true
 ---
 
 # Secrets and Encryption

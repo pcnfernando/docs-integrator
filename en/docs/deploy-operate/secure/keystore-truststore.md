@@ -3,6 +3,7 @@ sidebar_position: 1
 title: Keystores and Truststores
 description: Create, configure, and manage keystores and truststores for TLS, mutual TLS, and secure connections in WSO2 Integrator.
 keywords: [wso2 integrator, keystore, truststore, tls, mtls, security, certificates]
+draft: true
 ---
 
 # Keystores and Truststores

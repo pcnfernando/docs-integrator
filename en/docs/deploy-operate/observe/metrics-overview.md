@@ -2,6 +2,7 @@
 sidebar_position: 3
 title: Metrics
 description: Enable and expose Prometheus metrics from WSO2 Integrator for monitoring health and performance.
+draft: true
 ---
 
 # Metrics

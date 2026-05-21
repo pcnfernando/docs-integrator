@@ -2,6 +2,7 @@
 sidebar_position: 1
 title: Integration Control Plane
 description: Monitor and manage running integrations with the Integration Control Plane (ICP).
+draft: true
 ---
 
 import Tabs from '@theme/Tabs';
