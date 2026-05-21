@@ -1911,68 +1911,6 @@ const sidebars: SidebarsConfig = {
             'deploy-operate/deploy/managing-configurations',
           ],
         },
-        // CI/CD
-        {
-          type: 'category',
-          label: 'CI/CD',
-          items: [
-            'deploy-operate/cicd/github-actions',
-            'deploy-operate/cicd/jenkins',
-            'deploy-operate/cicd/gitlab',
-            'deploy-operate/cicd/azure-devops',
-          ],
-        },
-        // Observe
-        {
-          type: 'category',
-          label: 'Observe',
-          items: [
-            'deploy-operate/observe/observability-overview',
-            'deploy-operate/observe/metrics-overview',
-            'deploy-operate/observe/logging-overview',
-            {
-              type: 'category',
-              label: 'Distributed Tracing',
-              items: [
-                'deploy-operate/observe/jaeger-distributed-tracing',
-                'deploy-operate/observe/zipkin-tracing',
-              ],
-            },
-            {
-              type: 'category',
-              label: 'Supported Platforms',
-              items: [
-                'deploy-operate/observe/integration-control-plane-icp',
-                'deploy-operate/observe/recipe-datadog-setup',
-                'deploy-operate/observe/new-relic-integration',
-                'deploy-operate/observe/moesif-api-analytics',
-              ],
-            },
-          ],
-        },
-        // Secure
-        {
-          type: 'category',
-          label: 'Secure',
-          items: [
-            'deploy-operate/secure/keystore-truststore',
-            'deploy-operate/secure/runtime-security',
-            'deploy-operate/secure/authentication',
-            'deploy-operate/secure/api-security-rate-limiting',
-            'deploy-operate/secure/secrets-encryption',
-            'deploy-operate/secure/ip-whitelisting',
-            'deploy-operate/secure/compliance-considerations',
-          ],
-        },
-        // Capacity Planning
-        {
-          type: 'category',
-          label: 'Capacity Planning',
-          items: [
-            'deploy-operate/capacity-planning/overview',
-            'deploy-operate/capacity-planning/performance-benchmarks',
-          ],
-        },
       ],
     },
 

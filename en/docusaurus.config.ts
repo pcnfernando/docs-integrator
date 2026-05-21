@@ -129,9 +129,6 @@ const config: Config = {
           title: 'Deploy',
           items: [
             { label: 'Docker and Kubernetes', to: '/deploy/self-hosted/kubernetes' },
-            { label: 'CI/CD', to: '/deploy-operate/cicd/github-actions' },
-            { label: 'Observe', to: '/deploy-operate/observe/observability-overview' },
-            { label: 'Secure', to: '/deploy-operate/secure/authentication' },
           ],
         },
         {
