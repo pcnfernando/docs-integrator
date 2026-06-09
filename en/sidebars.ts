@@ -1896,10 +1896,10 @@ const sidebars: SidebarsConfig = {
             'deploy/cloud/import-integration',
           ],
         },
-        // Self-Hosted
+        // Self-hosted
         {
           type: 'category',
-          label: 'Self-Hosted',
+          label: 'Self-hosted',
           items: [
             'deploy/self-hosted/vm-deployment',
             'deploy/self-hosted/containerized-deployment',

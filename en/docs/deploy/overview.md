@@ -16,14 +16,13 @@ Deploy to WSO2 Cloud - Integration Platform, a fully managed SaaS. No infrastruc
 - **[Import a project](./cloud/import-project.md)** — Import an existing project from a Git repository.
 - **[Import an integration](./cloud/import-integration.md)** — Import a single integration from an existing repository.
 
-## Self-Hosted
+## Self-hosted
 
 Run your integration on your own infrastructure. Generate Docker images or Kubernetes manifests and deploy to any platform.
 
-- **[Local and VM deployment](./self-hosted/local-and-vm-deployment.md)** — Run on your local machine, a VM, or bare-metal server.
+- **[Local and VM deployment](./self-hosted/vm-deployment.md)** — Run on your local machine, a VM, or bare-metal server.
 - **[Containerized deployment](./self-hosted/containerized-deployment.md)** — Package as a container and deploy to Docker, Kubernetes, or Red Hat OpenShift.
 - **[Serverless deployment](../deploy-operate/deploy/serverless-deployment.md)** — Run as serverless functions.
-- **[AWS, Azure, and GCP](../deploy-operate/deploy/aws-azure-gcp.md)** — Deploy to major cloud providers using native services.
 - **[GraalVM native images](../deploy-operate/deploy/graalvm-native-images.md)** — Compile to a native binary for faster startup and lower memory usage.
 
 ## CI/CD
