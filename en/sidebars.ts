@@ -2088,7 +2088,6 @@ const sidebars: SidebarsConfig = {
           label: 'Custom & Third-Party Setups',
           items: [
             // Self-hosted runtime management
-            'deploy-operate/deploy/environments',
             'deploy-operate/deploy/managing-configurations',
             'deploy-operate/deploy/scaling-high-availability',
             // Observability
