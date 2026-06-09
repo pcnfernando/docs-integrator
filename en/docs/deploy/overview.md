@@ -16,7 +16,7 @@ Deploy to WSO2 Cloud - Integration Platform, a fully managed SaaS. No infrastruc
 - **[Import a project](./cloud/import-project.md)** — Import an existing project from a Git repository.
 - **[Import an integration](./cloud/import-integration.md)** — Import a single integration from an existing repository.
 
-## Self-hosted
+## Self-Hosted
 
 Run your integration on your own infrastructure. Generate Docker images or Kubernetes manifests and deploy to any platform.
 

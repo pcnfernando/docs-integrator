@@ -1896,10 +1896,10 @@ const sidebars: SidebarsConfig = {
             'deploy/cloud/import-integration',
           ],
         },
-        // Self-hosted
+        // Self-Hosted
         {
           type: 'category',
-          label: 'Self-hosted',
+          label: 'Self-Hosted',
           items: [
             'deploy/self-hosted/vm-deployment',
             'deploy/self-hosted/containerized-deployment',
@@ -2087,7 +2087,7 @@ const sidebars: SidebarsConfig = {
           type: 'category',
           label: 'Custom & Third-Party Setups',
           items: [
-            // Self-hosted runtime management
+            // Self-Hosted runtime management
             'deploy-operate/deploy/managing-configurations',
             'deploy-operate/deploy/scaling-high-availability',
             // Observability
