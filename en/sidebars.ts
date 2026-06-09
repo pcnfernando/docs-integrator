@@ -2132,15 +2132,15 @@ const sidebars: SidebarsConfig = {
                 'deploy-operate/secure/compliance-considerations',
               ],
             },
-            // Capacity Planning
-            {
-              type: 'category',
-              label: 'Capacity Planning',
-              items: [
-                'deploy-operate/capacity-planning/overview',
-                'deploy-operate/capacity-planning/performance-benchmarks',
-              ],
-            },
+          ],
+        },
+        // Capacity Planning: relevant across all deployment and management options.
+        {
+          type: 'category',
+          label: 'Capacity Planning',
+          items: [
+            'deploy-operate/capacity-planning/overview',
+            'deploy-operate/capacity-planning/performance-benchmarks',
           ],
         },
       ],
