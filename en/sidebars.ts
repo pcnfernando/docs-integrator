@@ -2587,6 +2587,7 @@ const sidebars: SidebarsConfig = {
               label: 'Platform Services',
               items: [
                 'manage/cloud/platform-services/managed-databases',
+                'manage/cloud/platform-services/managed-message-brokers',
               ],
             },
              {
